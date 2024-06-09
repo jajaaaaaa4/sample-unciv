@@ -18,7 +18,7 @@
 		"cost": 65,
 		"uniqueTo": "Great Philippines",
 		"cityStrength": 60,
-		"cityHealth": 2p0,
+		"cityHealth": 250,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
